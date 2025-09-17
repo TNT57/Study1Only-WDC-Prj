@@ -14,7 +14,7 @@ We recommend using the 'Shared Repository Model (Branch & Pull)' to collaborate 
 
 
 # ------------------------------------------------------------------------------
-# Study1Only - Music-Enhanced Learning Platform
+# Study1Only - Music-Enhanced Learning Platform (Link: https://study1-only-wdc-prj.vercel.app)
 # ------------------------------------------------------------------------------
 
 ## Project Description
